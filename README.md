@@ -141,7 +141,8 @@ FarmBazaar/
 
 ## 📸 Screenshots
 
-> _(Include screenshots or a Loom video link of the working platform here.)_
+> ![image](https://github.com/user-attachments/assets/c3213259-e935-4dd6-8b5b-578a0e776cbc)
+
 
 ---
 
@@ -155,10 +156,10 @@ FarmBazaar/
 
 ---
 
-## 👨‍💻 Team - Krantikari Techies
+## 👨‍💻 Creator -Sahil Motiramani
 
 - **Sahil Motiramani** – Full Stack Dev, Blockchain & AI
-- [Add other members if applicable]
+
 
 ---
 
