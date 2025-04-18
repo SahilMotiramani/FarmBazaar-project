@@ -78,8 +78,8 @@
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/farmbazaar.git
-cd farmbazaar
+git clone https://github.com/SahilMotiramani/FarmBazaar-project.git
+cd FarmBazaar-project
 
 ### 2. Install Frontend & Backend
 
